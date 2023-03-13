@@ -5,7 +5,7 @@ I am a Junior Qality Assurance software engineer from polish TriCity✨
 <br>## Connect with me[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sebastian-urba%C5%84ski-17101a268/)<br>
 <br>## Tech Skills
 <img align="left" alt="postman" src="https://img.shields.io/badge/Postman-FF7139?style=for-the-badge&logo=Postman&logoColor=white" />
-<img align="left" alt="postman" src="https://img.shields.io/badge/Postman-FF7139?style=for-the-badge&logo=Postman&logoColor=white" />
+<img align="left" alt="postman" src="https://img.shields.io/badge/SQL-FF7139?style=for-the-badge&logo=SQL&logoColor=white" />
 <img align="left" alt="postman" src="https://img.shields.io/badge/Postman-FF7139?style=for-the-badge&logo=Postman&logoColor=white" />
 <img align="left" alt="postman" src="https://img.shields.io/badge/Postman-FF7139?style=for-the-badge&logo=Postman&logoColor=white" />
 <img align="left" alt="postman" src="https://img.shields.io/badge/Postman-FF7139?style=for-the-badge&logo=Postman&logoColor=white" />
